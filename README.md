@@ -35,13 +35,11 @@ Resume Ready makes your job faster and helps you to apply for any job faster tha
 **You are ready to be always job ready with Resume Ready.**
 
 # PROJECT SNAPS
-![Untitled-2023-10-20-2034](https://github.com/Harshit-Raj-14/Resume-Ready/assets/98808802/44a5bf76-5a48-489a-a504-1c99e4ef8f64)
+![44a5bf76-5a48-489a-a504-1c99e4ef8f64](https://github.com/Harshit-Raj-14/Byteverse-Submission/assets/98808802/9152829c-32b8-4e5b-bd44-c1cf32129251)
+![8d58e35e-3d71-4605-9e53-f2dbdbbef4f0](https://github.com/Harshit-Raj-14/Byteverse-Submission/assets/98808802/4eb6ab32-b487-4561-862c-da660a406564)
+![ff280f38-2be6-409d-871f-f05872f0c40e](https://github.com/Harshit-Raj-14/Byteverse-Submission/assets/98808802/486a948f-47be-489c-80b3-723ebd8af4ad)
+![4c142e1e-e9ac-46a2-8c0c-1d6fdfede020](https://github.com/Harshit-Raj-14/Byteverse-Submission/assets/98808802/850f1499-fbce-45f3-b2e9-5d6adabfa1f8)
 
-![280091699-ac694cf5-3ce4-4f87-8990-2ca05994dfee](https://github.com/Harshit-Raj-14/Resume-Ready/assets/98808802/ff280f38-2be6-409d-871f-f05872f0c40e)
-
-![280091659-6bf0af9b-8e14-4a43-97dc-388049b8fdd8](https://github.com/Harshit-Raj-14/Resume-Ready/assets/98808802/8d58e35e-3d71-4605-9e53-f2dbdbbef4f0)
-
-![280091671-53242c06-21bc-4f9f-bd45-d80071c113d8](https://github.com/Harshit-Raj-14/Resume-Ready/assets/98808802/4c142e1e-e9ac-46a2-8c0c-1d6fdfede020)
 
 # THANK YOU
 
