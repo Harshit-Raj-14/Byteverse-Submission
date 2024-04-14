@@ -16,6 +16,9 @@ Resume Ready makes your job faster and helps you to apply for any job faster tha
 * Get a resume made and updated based on your LinkedIn profile information(experience, internships, education, recent posts, projects, certifications and achievements)
 * Decide whether the job is fit for you by comparing data from your resume with job description like (graduation date, cgpa requirement, work experience, skills match).
 
+## Tech Stack used
+React, Node.js, Javascript, Chrome, Python, Generative AI
+
 ## How to Install the extension
 
 1 Clone/Download this repo.
